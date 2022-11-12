@@ -1,0 +1,16 @@
+
+
+
+
+/* Match liked songs icon with theme */
+.main-likedSongsButton-likedSongsIcon{
+    color: var(--spice-sidebar); 
+    background: var(--spice-text);
+}
+
+
+.main-entityHeader-backgroundColor,
+.main-actionBarBackground-background,
+.main-home-homeHeader{ 
+    display: none !important;
+} 
